@@ -119,6 +119,34 @@ body {
 
 }
 
+.g{
+  margin-top: -5px;
+}
+
+
+/*landing page*/
+
+#w {
+  background-color: #414246;
+  min-height: 60vh;
+  background-position: 50% 50% !important;
+  background-size: cover !important;
+  width: 100%;
+  
+  display: flex;  
+  align-items: center; 
+  justify-content: center; 
+
+  margin-bottom: -19px; 
+}
+
+.w {
+  background-color: #414246;
+  margin-top: -40px;
+  /*padding: 20px 0px;*/
+  padding-bottom: 65px;
+}
+
 
 /*sign in, sign up*/
 .container{
@@ -352,4 +380,8 @@ fieldset[disabled] .btn-sample.active {
 }
 #brand {
   font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.h {
+  border-radius: 0px;
 }
